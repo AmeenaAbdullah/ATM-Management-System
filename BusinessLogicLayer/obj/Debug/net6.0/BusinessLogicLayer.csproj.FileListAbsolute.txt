@@ -1,0 +1,17 @@
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\BO_Customer.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\BO_Customer.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

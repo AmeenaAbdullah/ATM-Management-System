@@ -1,0 +1,12 @@
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\bin\Debug\net6.0\BO_User.deps.json
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\bin\Debug\net6.0\BO_User.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\bin\Debug\net6.0\BO_User.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.csproj.AssemblyReference.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.AssemblyInfoInputs.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.AssemblyInfo.cs
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.csproj.CoreCompileInputs.cache
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\refint\BO_User.dll
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\BO_User.pdb
+C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\obj\Debug\net6.0\ref\BO_User.dll

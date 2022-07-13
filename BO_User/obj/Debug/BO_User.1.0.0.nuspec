@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BO_User</id>
+    <version>1.0.0</version>
+    <authors>BO_User</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ameena\Documents\semester6\EAD\assignment\Assignment_1\BO_User\bin\Debug\net6.0\BO_User.dll" target="lib\net6.0\BO_User.dll" />
+  </files>
+</package>
